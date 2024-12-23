@@ -1,0 +1,1 @@
+Python practice problems; topics include: lists, decision structures, loops and list comprehension, functions, class and objects, data cleaning and preparation, concatenating and merging data, and data visualization.
